@@ -2,7 +2,7 @@
 
 This is a two-player ping pong game built with HTML, CSS, and JavaScript. The game is played on a single web page and is optimized for desktop and tablet devices.
 
-![Ping Pong Game Screenshot](screenshots/ping-pong-screenshot.png)
+![Ping Pong Game Screenshot](./screenshots/ping-pong-screenshot.png)
 
 ## Getting Started
 To start the game, simply [Click Here](https://ping-pong-game-deepesh.netlify.app/). The game will start automatically and both players can start playing by moving their paddles up and down using the arrow keys.
