@@ -11,8 +11,8 @@ To start the game, simply [Click Here](https://ping-pong-game-deepesh.netlify.ap
 The objective of the game is to score points by hitting the ball past the opponent's paddle. The player with the highest score at the end of the game wins. The game is played until one player reaches a predetermined number of points.
 
 ## Controls
-Player 1: Move paddle up: W key, Move paddle down: S key
-Player 2: Move paddle up: Up arrow key, Move paddle down: Down arrow key
+- Player 1: Move paddle up: `W` key, Move paddle down: `S` key
+- Player 2: Move paddle up: `Up` arrow key, Move paddle down: `Down` arrow key
 
 ## Features
 - Simple and intuitive user interface
